@@ -9,7 +9,6 @@ import java.util.Date;
 
 
 @Document(collection = "tutorials")
-//@Component
 public class Tutorial implements Serializable {
 
     @Id
